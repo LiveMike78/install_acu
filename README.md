@@ -27,5 +27,5 @@ This script streamlines the deployment process by automatically resolving prereq
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/LiveMike78/install_acu.git](https://github.com/LiveMike78/install_acu.git)
+git clone https://github.com/LiveMike78/install_acu.git
 cd install_acu
